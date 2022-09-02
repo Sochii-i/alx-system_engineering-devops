@@ -1,6 +1,2 @@
 #!/bin/bash
-crown Betty alone
-crown Betty alone
-chown  Betty hello
-#!/bin/bash
 chown Betty hello
